@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dmitrii Shaidorov
-- 👀 So far I’m interested in learning English, JavaScript
-- 🌱 I’m currently learning JS via theodinproject.com
+- 👀 So far I’m interested in learning English, JavaScript and React
+- 🌱 I’m currently learning React on theodinproject.com
 - 📫 Reach me via telegram @nemeyu 
 
 <!---
