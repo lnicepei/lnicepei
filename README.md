@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **lnicepei@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/x42hea5n41k997y/Dmitry_Shaidorov_Resume_16-09-2022-08-12-58.pdf?dl=0](https://www.dropbox.com/s/x42hea5n41k997y/Dmitry_Shaidorov_Resume_16-09-2022-08-12-58.pdf?dl=0)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lnicepei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lnicepei" height="30" width="40" /></a>
